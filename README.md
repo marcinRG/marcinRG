@@ -13,7 +13,7 @@ Hi, welcome on my github page. Here you will find mostly javascript + html + css
 | IMacro | Image macro application  | Typescript + Rx.js  | [Repository](https://github.com/marcinRG/IMacro) [Live](https://marcinrg.github.io/IMacro/)|
 | markdownEditor | Simple markdown editor  | Typescript | [Repository](https://github.com/marcinRG/markdownEditor) [Live](https://marcinrg.github.io/markdownEditor/)|
 | PageWithFilters | Mockup of simple web store  | React + Redux | [Repository](https://github.com/marcinRG/PageWithFilters) [Live](https://marcinrg.github.io/PageWithFilters)|
-| ChartsPlayground | Collection of interactive charts  | React + Typescript + d3.js | [Repository](https://github.com/marcinRG/ChartsPlayground) [Live](marcinrg.github.io/chartsplayground/)|
+| ChartsPlayground | Collection of interactive charts  | React + Typescript + d3.js | [Repository](https://github.com/marcinRG/ChartsPlayground) [Live](https://marcinrg.github.io/ChartsPlayground/)|
 | DevChJobs | Job search appliction, github jobs  | React  hooks, context api| [Repository](https://github.com/marcinRG/DevChJobs) [Live](https://marcinrg.github.io/DevChJobs)|
 | TrainingApp | Mockup of simple training application  | React  hooks, context api + d3.js | [Repository](https://github.com/marcinRG/TrainingApp) [Live](https://marcinrg.github.io/TrainingApp)|
 
