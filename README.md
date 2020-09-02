@@ -9,7 +9,7 @@ Hi, welcome on my github page. Here you will find mostly javascript + html + css
 | ------ | ------ | ------ | ------ |
 | Clicker | Simple clone of "cookie clicker" game. | Typescript + Rx.js  | [Repository](https://github.com/marcinRG/Clicker/) [Live](https://marcinrg.github.io/Clicker/)|
 | SVG-Ghost | Ghosts!!! | js, SVG, SVG filters, custom observer  | [Repository](https://github.com/marcinRG/SVG-Ghost/) [Live](https://marcinrg.github.io/SVG-Ghost/)|
-| CrappyUIElements | Collection of custom UI Elements | Typescript + Rx.js  | [Repository](https://github.com/marcinRG/CrappyUIElements/) [Live](https://marcinrg.github.io/CrappyUIElements/)|
+| CrappyUIElements | Collection of custom UI Elements | Typescript | [Repository](https://github.com/marcinRG/CrappyUIElements/) [Live](https://marcinrg.github.io/CrappyUIElements/)|
 | IMacro | Image macro application  | Typescript + Rx.js  | [Repository](https://github.com/marcinRG/IMacro) [Live](https://marcinrg.github.io/IMacro/)|
 | markdownEditor | Simple markdown editor  | Typescript | [Repository](https://github.com/marcinRG/markdownEditor) [Live](https://marcinrg.github.io/markdownEditor/)|
 | PageWithFilters | Mockup of simple web store  | React + Redux | [Repository](https://github.com/marcinRG/PageWithFilters) [Live](https://marcinrg.github.io/PageWithFilters)|
